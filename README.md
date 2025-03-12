@@ -30,10 +30,10 @@ This project analyzes sneaker resale market trends using **StockX sneaker sales 
 
 ## Exploratory Data Analysis (EDA)
 ### **Most Selling Sneaker Brands**
-![Most Selling Sneaker Brands](https://via.placeholder.com/800x400.png?text=Top+10+Most+Selling+Brands)
+![Most Selling Sneaker Brands](https://github.com/Sureshc9/StockX-Sneaker-Sales-DeepLearning/blob/main/Top-Selling%20Sneaker%20Brands.png?raw=true)
 
 ### **Sneaker Price Distribution**
-![Price Distribution](https://github.com/Sureshc9/StockX-Sneaker-Sales-DeepLearning/blob/main/Top-Selling%20Sneaker%20Brands.png?raw=true)
+![Price Distribution](
 
 ---
 
