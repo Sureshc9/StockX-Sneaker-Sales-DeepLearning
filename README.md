@@ -33,7 +33,7 @@ This project analyzes sneaker resale market trends using **StockX sneaker sales 
 ![Most Selling Sneaker Brands](https://via.placeholder.com/800x400.png?text=Top+10+Most+Selling+Brands)
 
 ### **Sneaker Price Distribution**
-![Price Distribution](https://via.placeholder.com/800x400.png?text=Sale+Price+Distribution)
+![Price Distribution](https://github.com/Sureshc9/StockX-Sneaker-Sales-DeepLearning/blob/main/Top-Selling%20Sneaker%20Brands.png?raw=true)
 
 ---
 
